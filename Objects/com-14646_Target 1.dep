@@ -1,0 +1,62 @@
+Dependencies for Project 'com-14646', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6180000::V6.18::ARMCLANG
+F (.\main.c)(0x660427C8)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O2 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/main.o -MD)
+I (gpio.h)(0x6604124B)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x61AE3E3E)
+I (RTE\_Target_1\RTE_Components.h)(0x6603D504)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AE3E3E)
+I (com_14646_matrix.h)(0x660407B7)
+I (tim2.h)(0x660420C4)
+F (.\gpio.c)(0x660422E9)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O2 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/gpio.o -MD)
+I (gpio.h)(0x6604124B)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x61AE3E3E)
+I (RTE\_Target_1\RTE_Components.h)(0x6603D504)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AE3E3E)
+I (util.h)(0x66041E58)
+F (.\gpio.h)(0x6604124B)()
+F (.\com_14646_matrix.h)(0x660407B7)()
+F (.\com_14646_matrix.c)(0x660423BF)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O2 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/com_14646_matrix.o -MD)
+I (com_14646_matrix.h)(0x660407B7)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (gpio.h)(0x6604124B)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (util.h)(0x66041E58)
+I (tim2.h)(0x660420C4)
+F (.\util.h)(0x66041E58)()
+F (.\util.c)(0x66041DA2)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O2 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/util.o -MD)
+I (util.h)(0x66041E58)
+F (.\tim2.h)(0x660420C4)()
+F (.\tim2.c)(0x6604276C)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O2 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/tim2.o -MD)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x61AE3E3E)
+I (RTE\_Target_1\RTE_Components.h)(0x6603D504)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62700FBE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AE3E3E)
+I (tim2.h)(0x660420C4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+F (RTE/Device/STM32F103RB/RTE_Device.h)(0x5FC114CA)()
+F (RTE/Device/STM32F103RB/startup_stm32f10x_md.s)(0x61AE3E3E)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 537" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"STM32F10X_MD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_md.o)
+F (RTE/Device/STM32F103RB/system_stm32f10x.c)(0x61AE3E3E)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O2 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Daniil.Aleschechkin/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/system_stm32f10x.o -MD)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x61AE3E3E)
+I (RTE\_Target_1\RTE_Components.h)(0x6603D504)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62700FBE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62700FBE)
+I (C:\Users\Daniil.Aleschechkin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AE3E3E)
